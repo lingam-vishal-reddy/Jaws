@@ -136,11 +136,7 @@ export function App() {
 
       <section className="hero" aria-label="Jaws">
         <p className="brand">JAWS</p>
-        <h1 className="headline">Talk to the machine.</h1>
-        <p className="lede">
-          Ask in plain language. JawBot opens shells and runs work on Linux —
-          you watch it happen.
-        </p>
+        <h1 className="headline">OP Personal Assistant</h1>
       </section>
 
       <main className="chat-panel">
